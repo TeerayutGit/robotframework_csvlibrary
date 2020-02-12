@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: robotframework-csvlibrary
+Version: 1.0.0
+Summary: CSV library for robotframework written in Python 3
+Home-page: https://github.com/Zeroune/robotframework-csvlib
+Author: Zeroune
+License: UNKNOWN
+Description: CSV library for robotframework written in Python 3
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
